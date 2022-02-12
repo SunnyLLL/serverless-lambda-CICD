@@ -1,2 +1,3 @@
 # serverless-lambda-CICD
-# serverless-lambda-CICD
+
+Test the github action CICD
